@@ -1,7 +1,7 @@
 # Tarea 1
 
 ## Base de datos a usar 
-### The Ultimate UFC Archive (1993-2023)
+### [The Ultimate UFC Archive (1993-2023)](https://www.kaggle.com/datasets/orcldsapp11557722/the-ultimate-ufc-archive-1993-2023)
 
 La base de datos que utilizare yo es UFC-Fight historical data from 1993 to 2021, fueron extraidos de la paguina web kaggle la cual nos comenta que estos datos son una lista de todas las peleas de UFC en la historia de la organización. Cada fila contiene información sobre ambos peleadores, detalles de la pelea y el ganador.Estab base de datos contiene 4 tablas
 
