@@ -1,4 +1,4 @@
 # Cesar Gomez
 ## 1723551
 
-### LAS TAREAS SE ENCUENTRAN EN LA CARPETA DE TAREAS
+### Las tareas se encuentran en /Clase 1/tareas
