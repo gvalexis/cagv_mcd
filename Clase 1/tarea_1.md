@@ -6,6 +6,11 @@
 La base de datos que utilizare yo es UFC-Fight historical data from 1993 to 2021, fueron extraidos de la paguina web kaggle la cual nos comenta que estos datos son una lista de todas las peleas de UFC en la historia de la organización. Cada fila contiene información sobre ambos peleadores, detalles de la pelea y el ganador.Estab base de datos contiene 4 tablas
 
 * events: Detalles clave de cada evento de UFC, como título, fecha, ubicación y estado de cancelación.
+    - event_id: alfanumerico 
+    - title: alfanumerico
+    - date: fecha
+    - location: alfanumerico
+    - canceled: boleano
 * fighters: Descubre los perfiles biográficos y estadísticos de cada peleador. Revela sus victorias, derrotas, técnicas entre otras
 * fights: esta tabla xplora los resultados de las peleas, los participantes, los detalles de cada asalto y las formas de victoria.
 * referees: Esta tabla contiene la infromacion de los referees de la UFC
