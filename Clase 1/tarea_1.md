@@ -12,8 +12,53 @@ La base de datos que utilizare yo es UFC-Fight historical data from 1993 to 2021
     - location: alfanumerico
     - canceled: boleano
 * fighters: Descubre los perfiles biográficos y estadísticos de cada peleador. Revela sus victorias, derrotas, técnicas entre otras
+
+    - fighter_id: alfanumerico
+    - name:	alfanumerico
+    - birthdate: fecha	
+    - aka: alfanumerico	
+    - class_weight:	alfanumerico
+    - wins:	entero
+    - losses: entero	
+    - draws: entero	
+    - country: alfanumerico 	
+    - city:	alfanumerico
+    - weight (lbs):	entero
+    - sex:	alfanumerico
+    - height (cm): decimal
+
 * fights: esta tabla xplora los resultados de las peleas, los participantes, los detalles de cada asalto y las formas de victoria.
+    - fight_id: alfanumerico
+    - event_id: alfanumerico	
+    - left_fighter_id: alfanumerico	
+    - left_fighter_name: alfanumerico	
+    - right_fighter_id: alfanumerico	
+    - right_fighter_name: alfanumerico	
+    - winner: alfanumerico	
+    - winner_name: alfanumerico	
+    - is_main_event: boleano
+    - match: entero   
+    - round: entero	
+    - time: hora	
+    - method: alfanumerico	
+    - weight_class: alfanumerico	
+    - referee_id: alfanumerico	
+    - referee_name: alfanumerico
 * referees: Esta tabla contiene la infromacion de los referees de la UFC
+    - referee_id: Alfanumerico	
+    - name: Alfanumerico	
+    - birthdate: Fecha	
+    - aka: Alfanumerico
+    - n_fights: entero	
+    - ko_tko: entero	
+    - submission: entero	
+    - decision: entero	
+    - draws: entero	
+    - no_contests: entero	
+    - disqualifications: entero	
+    - country: alfanumerico	
+    - city: alfanumerico
+
 
 ## SGDB
 ### SQL Server management 
