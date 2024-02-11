@@ -1,4 +1,4 @@
-# cagv_mcd
-Primera tarea BRD
-segundo comit
-tercer comit 
+# Cesar Gomez
+## 1723551
+
+### Las tareas se encuentran en /Clase 1/tareas
